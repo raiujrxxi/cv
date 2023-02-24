@@ -93,9 +93,75 @@ a:hover {
   bottom: 300px;
 }
 
+
 .skill-row {
   margin: 100px auto 100px auto;
   text-align: left;
+  width: 50%;
+}
+
+.skill-img-right {
+  width: 60%;
+  float: right;
+  margin-left: 30px;
+  opacity: 1;
+  transition: all 0.1s ease;
+}
+
+.skill-img-right:hover {
+  opacity: 0.5;
+}
+
+.skill-img-left {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+  opacity: 1;
+  transition: all 0.1s ease;
+}
+
+.skill-img-left:hover {
+  opacity: 0.5;
+}
+
+.caption {
+  float: right;
+  margin: auto;
+  text-align: center;
+  width: 60%;
+  font-size: 0.8rem;
+}
+
+
+/*
+
+.table2b {
+  margin-left: 30px;
+}
+
+figure img {
+  vertical-align: top;
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+  opacity: 1;
+  transition: all 0.1s ease;
+}
+
+figure figcaption {
+  margin: auto auto auto 281.688px;
+  text-align: left;
+  width: 30%;
+  font-size: small;
+}
+
+*/
+
+/*
+
+.attribution {
+  margin: auto;
+  text-align: right;
   width: 50%;
 }
 
@@ -129,11 +195,7 @@ a:hover {
   margin-right: 30px;
 }
 
-.attribution {
-  width: 25%;
-  float: left;
-  margin-left: 30px;
-}
+*/
 
 .contact-me {
   margin: 40px auto 60px;
