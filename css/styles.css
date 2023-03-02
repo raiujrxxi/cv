@@ -113,7 +113,7 @@ a:hover {
 }
 
 .skill-img-left {
-  width: 30%;
+  width: 60%;
   float: left;
   margin-right: 30px;
   opacity: 1;
@@ -124,7 +124,7 @@ a:hover {
   opacity: 0.5;
 }
 
-.caption {
+.caption-right {
   float: right;
   margin: auto;
   text-align: center;
@@ -132,70 +132,13 @@ a:hover {
   font-size: 0.8rem;
 }
 
-
-/*
-
-.table2b {
-  margin-left: 30px;
-}
-
-figure img {
-  vertical-align: top;
-  width: 30%;
-  float: right;
-  margin-left: 30px;
-  opacity: 1;
-  transition: all 0.1s ease;
-}
-
-figure figcaption {
-  margin: auto auto auto 281.688px;
-  text-align: left;
-  width: 30%;
-  font-size: small;
-}
-
-*/
-
-/*
-
-.attribution {
+.caption-left {
+  float: left;
   margin: auto;
-  text-align: right;
-  width: 50%;
+  text-align: center;
+  width: 60%;
+  font-size: 0.8rem;
 }
-
-.computer-img {
-  width: 25%;
-  float: right;
-  margin-left: 30px;
-}
-
-.software-img{
-  width: 25%;
-  float: right;
-  margin-left: 30px;
-}
-
-.programming-img {
-  width: 25%;
-  float: left;
-  margin-right: 30px;
-}
-
-.soft-skills-img {
-  width: 25%;
-  float: right;
-  margin-left: 30px;
-}
-
-.other-skills-img {
-  width: 25%;
-  float: left;
-  margin-right: 30px;
-}
-
-*/
 
 .contact-me {
   margin: 40px auto 60px;
@@ -236,3 +179,4 @@ figure figcaption {
 }
 
 /**********ID SELECTORS**********/
+
